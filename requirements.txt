@@ -1,0 +1,5 @@
+requests>=2.31
+websockets>=12
+protobuf>=4.25
+# GUI 界面
+PyQt6>=6.6
