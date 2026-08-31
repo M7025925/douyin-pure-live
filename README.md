@@ -2,7 +2,8 @@
 
 抖音直播间视频及弹幕实时采集工具（Python 实现）。支持 GUI 图形界面与 CLI 终端两种运行方式，可实时采集弹幕、礼物、点赞、进入、关注、场观人数等信息。
 
-<img width="1442" height="907" alt="2345截图20260831165432" src="https://github.com/user-attachments/assets/901fbd89-89ba-4855-a773-ca1d4d5a7bec" />
+<img width="1446" height="909" alt="2345截图20260831170332" src="https://github.com/user-attachments/assets/d39ecaa9-7a3f-4e32-b374-aa0fe9f5ffd6" />
+
 
 ## 功能特性
 
