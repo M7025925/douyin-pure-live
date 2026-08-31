@@ -34,13 +34,14 @@
 ```bash
 cd python
 pip install -r requirements.txt
+或者直接双击“安装依赖.bat”快速安装
 ```
 
 ## 快速上手
 
 ### GUI 模式（推荐）
 
-双击 `main.py`（或 `python main.py`）：
+双击 `运行程序.bat`（或 `python main.py`）：
 
 1. 顶部输入直播间地址（如 `https://live.douyin.com/xxxxxx`），点击**开始采集**
 2. 左侧显示主播信息与内嵌直播画面；右侧弹幕列表（类型过滤 / 录制配置）
